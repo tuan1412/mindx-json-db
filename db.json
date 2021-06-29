@@ -1,38 +1,19 @@
 {
-  "users":[
+  "projects":[
     {
-       "id": 0,
-       "username": "tuan",
-       "password": "123456"
+      name: 'Project Test 2',
+      task: 'Task test 1',
+      timeSpent: 1
     },
     {
-      "id": 1,
-      "username": "anh",
-      "password": "1234567"
-    }
-   ],
-  "posts": [
-    {
-      "id": 0,
-      "title": "Title 1",
-      "userId": 1
+      name: 'Learn frontend',
+      task: 'Learn HTML',
+      timeSpent: 6
     },
     {
-      "id": 1,
-      "title": "Title 2",
-      "userId": 0
-    }
-   ],
-  "fav_posts": [
-    {
-      "id": 0,
-      "userId": 0,
-      "postId": 1
-    },
-    {
-      "id": 1,
-      "userId": 1,
-      "postId": 1
+      name: 'Learn frontend',
+      task: 'Learn CSS',
+      timeSpent: 8
     }
   ]
 }
