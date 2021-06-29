@@ -1,16 +1,19 @@
 {
   "projects":[
     {
+      "id": 0,
       "name": "Project Test 2",
       "task": "Task test 1",
       "timeSpent": 1
     },
     {
+      "id": 1,
       "name": "Learn frontend",
       "task": "Learn HTML",
       "timeSpent": 6
     },
     {
+      "id": 2,
       "name": "Learn frontend",
       "task": "Learn CSS",
       "timeSpent": 8
