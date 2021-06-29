@@ -23,4 +23,11 @@
       "user_id": 0
     }
    ]
+  "fav_posts": [
+    {
+      "id": 0,
+      "user_id": 0
+      "post_id": 1
+    }
+  ]
 }
